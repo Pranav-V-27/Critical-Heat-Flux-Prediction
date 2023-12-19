@@ -1,7 +1,7 @@
-##Critical Heat Flux Prediction_Pranav
+##Critical Heat Flux Prediction##
 This project predicts the critical heat flux (CHF) in a pool boiling system using a machine learning model. The model was trained on a dataset of experimental data from the literature.
 
-#Goals
+#Goals#
 The goals of this project are to:
 
 Develop a machine learning model to predict the CHF in a pool boiling system.
